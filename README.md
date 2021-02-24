@@ -26,7 +26,7 @@ $ git clone https://github.com/Your_Username/Names-Inventory.git
 
 ### 3. Set it up :arrow_up:
 
-Run the following commands to see that *your local copy* has a reference to *your forked remote repository* in GitHub :octocat:
+Run the     following   commands to see that *your local copy* has a reference to *your forked remote repository* in GitHub :octocat:
 
 ```sh
 $ git remote -v
